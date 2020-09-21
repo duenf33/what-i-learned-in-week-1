@@ -1,4 +1,5 @@
-  # **`❯   ~/Doc/c/t/week-1/what-i-learned-in-week-1`**
+![which](img/title.png)
+
   ###### _Fernando Duenas_
   ###### _Monday 21st, 2020_
 > ## thoughts
@@ -319,3 +320,6 @@ console.log(d);
 
 ❯ Fernando Duenas
 ```
+
+
+# **`❯ 🍎 📂 ~/Doc/c/t/week-1/what-i-learned-in-week-1`**
