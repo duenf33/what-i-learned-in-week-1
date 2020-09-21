@@ -256,11 +256,11 @@ After this being installed. You will be able to run tests for JavaScript with th
 
 ---
 
-### **What is a variable? ↑**
+### **What is a variable?**
+
+![variable](img/variable.png)
 
 **Variable** means anything that can vary. **JavaScript** includes **variables** which hold the data value and it can be changed anytime. **JavaScript** uses reserved keyword var to declare a **variable**. A variable must have a unique name.
-
-**↑** If we take a look at the previous screenshot it shows how the variables are being implemented in the functions.
 
 --- 
 
@@ -275,3 +275,47 @@ difference between **parameters** and **arguments**:
   * **Parameters** are initialized to the values of the **arguments** supplied.
 
 ![parameters](img/parameters.png)
+
+---
+
+### **Arithmetic operators :**<br>
+
+**Arithmetic operators** take numerical values (either literals or variables) as their operands and return a single numerical value.<br>
+
+`+  `    Addition operator.<br>
+`-  `    Subtraction operator.<br>
+`/  `    Division operator.<br>
+`*  `    Multiplication operator.<br>
+`%  `    Remainder operator or modulus.<br>
+`** `   Exponentiation operator.<br> 
+
+Here below we can see two examples of addition and **concatenation**.
+
+**concatenation ;** is the operation of joining character strings end-to-end.
+
+
+```javascript
+#javascript
+
+x = 0;
+
+x = 2 + 2;
+
+console.log(x);
+
+❯ 4;
+
+
+
+a = 'Fernando';
+
+b = ' ';
+
+c = 'Duenas';
+
+d = a + b + c;
+
+console.log(d);
+
+❯ Fernando Duenas
+```
